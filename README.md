@@ -1,4 +1,4 @@
-# Azure Pipelines YAML
+# Azure Pipelines YAML2
 
 YAML templates, samples, and community interaction for [Azure Pipelines](https://docs.microsoft.com/azure/devops/pipelines/).
 While this doesn't replace the docs, our fantastic [support team](https://azure.microsoft.com/support/devops/), or our [UserVoice](https://visualstudio.uservoice.com/forums/330519-visual-studio-team-services), feel free to file suggestions and issues here if they're related to YAML pipelines.
